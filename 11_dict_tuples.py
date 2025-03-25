@@ -64,7 +64,7 @@ countries= {
     "China": 143,
     "India": 136,
     "USA" : 32,
-    "Pakistan" : 21
+    "Pakistan" : 100
 }
 print(countries.keys())
 for key,value in countries.items():
